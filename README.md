@@ -1,5 +1,5 @@
 # Advent of code solutions
-***Using
+**Using**
 - Rust
 
 The solutions are in folders: 
